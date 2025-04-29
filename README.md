@@ -57,8 +57,7 @@ The survey includes questions about:
 
 ## Get Involved
 
-Feel free to fill out the form: 
-Google Form: https://docs.google.com/forms/d/e/1FAIpQLSeimRt_am5BzXkQAK4OZps6P-iihaWg2bD1YRCvZkrdmbZYdQ/viewform?pli=1
+Feel free to fill out the google form: 
 <img src="How%20Exercise%20Shapes%20Your%20Mental%20Health.png" alt="How Exercise Shapes Your Mental Health" width="600">
 
 
